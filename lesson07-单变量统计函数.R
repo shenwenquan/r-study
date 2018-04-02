@@ -1,0 +1,2 @@
+str(airquality)
+summary(airquality)
